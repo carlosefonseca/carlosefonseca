@@ -2,8 +2,6 @@
 
 I'm an iOS Software Engineer by day. I also dabble in other tools, love automation and playing with APIs.
 
-I'm on <a rel="me" href="https://masto.pt/@carlosefonseca">Mastodon</a>.
-
 <!--
 **carlosefonseca/carlosefonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
