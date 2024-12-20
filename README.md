@@ -2,6 +2,8 @@
 
 I'm an iOS Software Engineer by day. I also dabble in other tools, love automation and playing with APIs.
 
+I'm currently at [Bliss Applications](https://www.blissapplications.com) (previously at Talkdesk, Nonius, GuestU, Card4B, Beware).
+
 <!--
 **carlosefonseca/carlosefonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
